@@ -10,9 +10,9 @@ During the next year you will learn the fundamentals of data science. Surviving 
 
 Git is easy. Git is fun. Thanks Linus!
 
-*Avro 
-*Harrier 
-*Hornet
+* Avro 
+* Harrier 
+* Hornet
 
 
 ## Core Courses
