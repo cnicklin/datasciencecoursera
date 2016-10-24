@@ -1,6 +1,3 @@
-*Avro 
-*Harrier 
-*Hornet
 
 # Introduction
 
@@ -12,6 +9,11 @@ During the next year you will learn the fundamentals of data science. Surviving 
 3. an appreciation of the mathematics & statistics involved in data science.
 
 Git is easy. Git is fun. Thanks Linus!
+
+*Avro 
+*Harrier 
+*Hornet
+
 
 ## Core Courses
 
